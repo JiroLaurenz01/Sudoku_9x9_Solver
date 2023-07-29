@@ -19,8 +19,4 @@ The 9x9 Sudoku solver employs straightforward algorithms to find solutions for S
 
 We appreciate contributions that further improve the solver's efficiency, optimize the code, or add new functionalities. If you have any ideas or enhancements, feel free to submit a pull request. Let's collaborate to create an even better Sudoku solver!
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You can utilize the solver for educational purposes or incorporate it into your projects. While attribution is not obligatory, your support is valued.
-
 Enjoy solving Sudoku puzzles with ease using our program! Happy puzzling! 🧩🎉
